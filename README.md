@@ -18,7 +18,7 @@ $ cd PUH
 $ chmod +x PUH.sh
 $ ./PUH.sh
 or 
-$ bash Impostor.sh
+$ bash PUH.sh
 ```
 
 # My web site
